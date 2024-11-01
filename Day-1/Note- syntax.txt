@@ -1,0 +1,15 @@
+Comments
+Use # for single-line comments.
+For multiple lines, use triple quotes """ ... """.
+
+Variables
+No need to declare a type; just assign with =.
+Example: name = "Alice" or age = 25.
+Data Types
+
+Common types: int, float, str, list, dict.
+Python is dynamically typed, so types don’t need to be specified.
+Indentation
+
+Indentation (4 spaces) is used to define blocks of code.
+Important: Consistent indentation is crucial since it replaces {} brackets.
