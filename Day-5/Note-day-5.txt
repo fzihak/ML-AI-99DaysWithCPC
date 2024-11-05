@@ -1,0 +1,5 @@
+A distribution is a way to show how data points are spread across possible values.
+Uniform Distribution: Every value within a range has the same probability.
+Normal Distribution: Also known as a bell curve; most values cluster around the mean with symmetric tails. Often used in real-world data.
+Binomial Distribution: Used for discrete outcomes with two possibilities.
+Poisson Distribution: Models the number of events occurring in a fixed interval.
